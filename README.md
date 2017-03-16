@@ -47,3 +47,4 @@ What do we do next?
 We can put things here for reference or KB type stuff.
 
   * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  * Trello (Kanban Board) - https://trello.com/
