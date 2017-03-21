@@ -23,9 +23,18 @@ In no particular order:
       * Temp -> Perm - Space Dwelling?
 
   * Anything with Flying :)
-  * 3D Modeling
+      * Arduino-Based ARDUPilot
+        * Once we get flying down, we could start experimenting with building a UAV of out own and gradually design our own fully autonomous UAV.
+        * Hardware is already available and there are many different flight controller platforms to mess with.
+
+* 3D Modeling
     * Large Scale - Outdoors, VR/AR, Mapping
     * Small Scale - 3D Printing and such
+    
+* Arduino
+    * Responsive models 
+      * Could be tied in with tensegrity models possibly, I don't think the nature of opposing compression/tension menbers lends itself to movement, but who knows
+    * Kinetic Sculptures
 
 ## Next Steps
 
